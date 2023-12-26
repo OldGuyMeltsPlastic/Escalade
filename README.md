@@ -6,9 +6,9 @@ Fabreeko had a K3 on display at their booth, and the design and overall build qu
 Another attendee had also brought their own K3 build to the event, and they had a sidepack mounted on the right with a Waveshare 7.9" HDMI display.
 I was inspired to do something similar with my own K3 build.
 
-Original K3 configuration:
+```Original K3 configuration:
 
-```|------------------------|
+|------------------------|
 |        BACKPACK        |
 |------------------------|
 | Y  |    | Z1 |    | X1 |
@@ -19,11 +19,11 @@ Original K3 configuration:
 | ------          ------ |
 |-----              -----|
 | X  |              | Y1 |
-|------------------------|```
+|------------------------|
 
 My K3 configuration:
 
-```|------------------------|----|
+|------------------------|----|
 | Y  | Z  |         | X1 |    |
 |----------         |----|    |
 |                        |    |
