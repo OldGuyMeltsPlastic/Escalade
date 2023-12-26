@@ -1,5 +1,7 @@
 # Escalade (French for "climb", specifically mountain climbing)
 
+![alt text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Full_Frontal_View.jpg?raw=true)
+
 Escalade is an Annex Engineering K3 printer with a few twists, just because I can.
 
 After attending the Rocky Mountain Rep Rap Festival (RMRRF) in Loveland, CO in April 2023, I came back home to Ottawa, Canada and ordered myself a K3 kit from Fabreeko.
