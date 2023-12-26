@@ -8,7 +8,7 @@ I was inspired to do something similar with my own K3 build.
 
 Original K3 configuration:
 
-|------------------------|
+```|------------------------|
 |        BACKPACK        |
 |------------------------|
 | Y  |    | Z1 |    | X1 |
@@ -19,11 +19,11 @@ Original K3 configuration:
 | ------          ------ |
 |-----              -----|
 | X  |              | Y1 |
-|------------------------|
+|------------------------|```
 
 My K3 configuration:
 
-|------------------------|----|
+```|------------------------|----|
 | Y  | Z  |         | X1 |    |
 |----------         |----|    |
 |                        |    |
@@ -32,7 +32,7 @@ My K3 configuration:
 |                 ------ |    |
 |----------         -----|    |
 | X  | Z2 |         | Y1 |    |
-|------------------------|----|
+|------------------------|----|```
 
 For my build, it wasn't enough to rotate the printer so that the backpack now sits on the right side, but I also ended up swapping the X and Y axes so that X still moves left to right, and Y still moves front to back in the rotated configuration.
 
