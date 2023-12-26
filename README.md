@@ -64,3 +64,5 @@ Also, when mounting the front door panel to the hinges, the build instructions r
 While the K3 is now printing, I am working through resolving some pretty bad print artifacts that appear to be caused by a physical problem with the gantry motion system. Once I have corrected these, I will share my configuration and slicer settings for reference.
 
 To mount the electronics in my K3 sidepack, I asked my friend Fizzy, creator of the Electronics Mounting System (EMS) that is popular with many Voron printer builders, to create an EMS frame for the K3. I will update with a link to it here once he has published it on Printables.
+
+Many thanks to all of the greatly helpful people on the Annex Engineering and Fabreeko Discord servers for all of their assistance and timely responses to my many questions. This printer build would have been much more work on my part without all of the help that I received.
