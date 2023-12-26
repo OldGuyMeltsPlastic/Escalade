@@ -70,7 +70,7 @@ To mount the electronics in my K3 sidepack, I asked my friend Fizzy, creator of 
 Many thanks to all of the greatly helpful people on the Annex Engineering and Fabreeko Discord servers for all of their assistance and timely responses to my many questions. This printer build would have been much more work on my part without all of the help that I received.
 
 Photos:
-[!alt_text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Waveshare_7.9_DSI_Sidepack.jpg)
-[!alt_text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Toolhead_Frontal_View.jpg)
-[!alt_text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Twin_Bedfans.jpg)
-[!alt_text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Lower_Front_Door_Hinge_BHCS.jpg)
+![alt_text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Waveshare_7.9_DSI_Sidepack.jpg?raw=true)
+![alt_text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Toolhead_Frontal_View.jpg?raw=true)
+![alt_text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Twin_Bedfans.jpg?raw=true)
+![alt_text](https://github.com/OldGuyMeltsPlastic/Escalade/blob/main/images/Escalade_Lower_Front_Door_Hinge_BHCS.jpg?raw=true)
