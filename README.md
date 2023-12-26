@@ -1,6 +1,6 @@
 # Escalade
 
-An Annex Engineering K3 printer with a few twists, because I can.
+An Annex Engineering K3 printer with a few twists, just because I can.
 
 After attending the Rocky Mountain Rep Rap Festival (RMRRF) in Loveland, CO in April 2023, I came back home to Ottawa, Canada and ordered myself a K3 kit from Fabreeko.
 
