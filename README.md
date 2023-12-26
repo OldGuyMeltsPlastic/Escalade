@@ -6,7 +6,9 @@ Fabreeko had a K3 on display at their booth, and the design and overall build qu
 Another attendee had also brought their own K3 build to the event, and they had a sidepack mounted on the right with a Waveshare 7.9" HDMI display.
 I was inspired to do something similar with my own K3 build.
 
-```Original K3 configuration:
+```
+
+Original K3 configuration:
 
 |------------------------|
 |        BACKPACK        |
@@ -32,7 +34,9 @@ My K3 configuration:
 |                 ------ |    |
 |----------         -----|    |
 | X  | Z2 |         | Y1 |    |
-|------------------------|----|```
+|------------------------|----|
+
+```
 
 For my build, it wasn't enough to rotate the printer so that the backpack now sits on the right side, but I also ended up swapping the X and Y axes so that X still moves left to right, and Y still moves front to back in the rotated configuration.
 
