@@ -9,6 +9,7 @@ Another attendee @OB1Kenobi from the Annex Engineering Discord server, had also 
 I was inspired to do something similar with my own K3 build.
 
 I have created a K3 playlist on my YouTube channel and documented most of the physical build there: https://www.youtube.com/playlist?list=PLngLOesYVWnwKW8zaA5v_0eK2fdAM9LTv
+
 I have also created a build log on the Annex Engineering Discord server here: https://discord.com/channels/641407187004030997/1180948550843117720
 
 ```
