@@ -1,4 +1,4 @@
-# Escalade
+# Escalade (French for "climb", specifically mountain climbing)
 
 An Annex Engineering K3 printer with a few twists, just because I can.
 
