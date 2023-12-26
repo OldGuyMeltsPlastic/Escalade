@@ -8,8 +8,7 @@ Fabreeko had a K3 on display at their booth, and the design and overall build qu
 Another attendee @OB1Kenobi from the Annex Engineering Discord server, had also brought his own K3 build to the event, and he had a sidepack mounted on the right with a Waveshare 7.9" HDMI display mounted vertically.
 I was inspired to do something similar with my own K3 build.
 
-I have created a K3 playlist on my YouTube channel and documented most of the physical build there: https://www.youtube.com/playlist?list=PLngLOesYVWnwKW8zaA5v_0eK2fdAM9LTv
-
+I have created a K3 playlist on my YouTube channel and documented most of the physical build there: https://www.youtube.com/playlist?list=PLngLOesYVWnwKW8zaA5v_0eK2fdAM9LTv<br>
 I have also created a build log on the Annex Engineering Discord server here: https://discord.com/channels/641407187004030997/1180948550843117720
 
 ```
